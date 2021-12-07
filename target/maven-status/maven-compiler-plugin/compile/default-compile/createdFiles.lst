@@ -1,0 +1,3 @@
+driver\WebDriverHandler.class
+pages\BasePage.class
+pages\SearchPage.class
